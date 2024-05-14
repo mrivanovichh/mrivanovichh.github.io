@@ -47,17 +47,17 @@ namespace ManualdeReferencia {
     #region Keydowns General
     //KeyDowns General-------------------------------//
 
-   /* Ejemplo KeyDown
-    void Update()
-    {
-    //replace KeyCode
-        if (Input.GetKeyDown(//"KeyCode"//)) { }
-    }
-        void Update()
-    {
-        if(Input.GetKeyUp(KeyCode)) { }
-    }
-    */
+    /* Ejemplo KeyDown
+     void Update()
+     {
+     //replace KeyCode
+         if (Input.GetKeyDown(//"KeyCode"//)) { }
+     }
+         void Update()
+     {
+         if(Input.GetKeyUp(KeyCode)) { }
+     }
+     */
 
     //Direct Functions
     /*Informacion de inputs
@@ -171,10 +171,13 @@ value : Variable indicating the value output from the acquired controller*/
     [RecursiveMethod]//ejemplo recursividad
                      //private type function name {}
 
-    [UdonSynced(UdonSyncMode.None)]
-    [UdonSynced(UdonSyncMode.Linear)]
-    [UdonSynced(UdonSyncMode.Smooth)]
-    [UdonSynced(UdonSyncMode.NotSynced)]
+    [UdonSynced(UdonSyncMode.None)] //old ignore
+    [UdonSynced(UdonSyncMode.Linear)] //old ignore
+    [UdonSynced(UdonSyncMode.Smooth)] //old ignore
+    [UdonSynced(UdonSyncMode.NotSynced)] //old ignore
+
+    [UdonBehaviourSyncMode(BehaviourSyncMode.Manual)]
+
 
     [UdonSynced]
     private interface favouriteNumber;
