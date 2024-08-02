@@ -1,41 +1,26 @@
 avtr_a24d0362-7c14-45f4-90ed-952589062e4f|-Tanya- Hakka
 avtr_0ec53d09-dc95-40a2-85d7-56f3c294d35d|305 미코
-avtr_c3aa595b-868a-449f-b92d-d5de1a2b150a|Akky
 avtr_48f5b9cf-8fb8-4a70-8b54-cef320e58ac4|Beniha
 avtr_43656014-cac3-4098-885b-e6f5c9a7a3b4|Blondie Cutie
-avtr_c1c4f0ba-af4a-4174-88cd-1fdee7265e90|BW․N~3
 avtr_0bd1e695-ff19-4f67-85d9-8ec91853bf4c|ch03_lynblau_V2
 avtr_3f8e2d09-d9ce-495b-9dbc-b95fb5a77df0|Chimera ［Public］
 avtr_92a10b11-697b-4cfc-8f5e-e3f9719dbc82|Cutie Karin
 avtr_ea49a768-57cf-416f-9d40-dcaabaadc199|FOC Shockwave
 avtr_f6f92fca-b1ea-4d63-9801-139c4ce9c146|Harpy Ritualist
-avtr_410a1d6c-18d1-4a66-a02d-bbc553ac8664|KissMa
-avtr_f6e8f07f-8221-4e3f-a9c5-06e252475365|Kissma private
 avtr_4ab6ce6e-2bbb-4403-a1d3-4dcac9aee4d0|Mariel 3․0
-avtr_a40647b9-df78-4bd7-9278-28698e42f992|Merino
 avtr_89154d87-1269-444e-8664-d8e53badfcb2|miko_HaRi-11
 avtr_cbeeb70d-6e0c-4900-96e9-d2634b671ed9|mint cutieǃǃ
 avtr_862ccddd-43cc-4d71-9d13-7a7ca953da4e|nenohi
 avtr_8fd6e8b0-fb3f-42ce-8e33-73d57bcb8faf|Rainbow neko 3․0
 avtr_2ef98b5a-ccad-46da-9a82-1313cde3200d|Red Riding Hood Cat
-avtr_509bf15b-b1e8-4928-a8c8-2660b8c04fcd|Rindo
 avtr_67b97d3e-e3d9-4d88-99db-b01cb1b330a4|Sad wolferia
 avtr_964d82aa-5499-4cc3-9796-10d6df090adb|Snowy Ukon BLK
-avtr_a5bf8177-1dff-4b19-9217-be052f990545|wolferia鲜虾鱼版
 avtr_fd6ff595-b113-45eb-8cb2-9365bf390d60|Xinyan
 avtr_39a299a9-5b59-4a36-9c78-a07698d1ed2a|Zi III
-avtr_8385d0ab-395d-4ba9-ac62-def65a002a52|ミルク but wolferia
-avtr_870856e0-5c18-41d7-bca6-4b807db3f0c1|幽狐 学校ではVRは使えません。しばらく友達に公開してテストして使用禁止。
 avtr_d3bc4530-e051-463f-ab2b-2afddd3b7429|新史莱姆
-avtr_05fc561c-fdce-4985-b0e9-ad2827c9bccc|＂ Raven ＂
-avtr_785668d1-16a3-4f57-8bf2-91ea4254ca75|Brandy Lewd Tall
-avtr_3f29809a-812e-4918-8325-b9dbea72ca80|EYO Maid 0․8
-avtr_acb0cd5f-db84-4004-b0a3-57533a47d656|Nell 3․0
 avtr_1f15b814-4161-4144-8c5f-d7f6a9ef6022|NiaKaze - Public Test Avatar by Triock
-avtr_e7421f1f-cc56-43d0-bcbf-4dc7098905c4|Yuki
 avtr_00842c5a-a7ec-4985-a140-17f940c8fce6|＠理之律者0718
 avtr_3f9e4fea-a16c-4b20-ad9b-d54bb14cece4|BeatSaber by KillFrenzy - Public TDA-IA-Aion
-avtr_3c99c01c-8b2f-4026-9915-56e9829f0b93|Blind Well
 avtr_97029285-485c-40f4-86ea-fe6478bd9c60|CottonFox
 avtr_2d6dfc9a-e640-4d5c-a51a-1033dcfacbdf|Doom-Kon
 avtr_634a6e5c-b48f-444a-9d82-1672b6e3616b|Fisherman Taidum
@@ -53,7 +38,6 @@ avtr_54b2d32b-bac4-4910-9393-b56b160cf250|破法者喵喵
 avtr_a1630b72-f85f-4d5c-9900-7831ff48a976|［TRYINGON］ Dorothy［VKET5］
 avtr_cb27eb96-c236-402a-a7fc-953e25fdd4a4|black-vket3
 avtr_f440dc30-ca02-4e62-b12f-12b442472bb9|ch01_salty_free_v1․6
-avtr_bfd20b82-d7d0-401b-adc5-b1bd750d918d|ch03_lynblau_trial
 avtr_c033860a-62d4-4e29-bf8f-699df9cc7031|Claudia SAMPLE
 avtr_98447d08-d581-4bf6-92a1-a191c5e988e8|Karin_sample_lite
 avtr_b4ce4108-3ec1-4e40-a223-d89ceed361ac|Komari_Sample
@@ -65,23 +49,18 @@ avtr_4f21e8f8-c61c-4c42-8064-ed5e8de86a9c|Vespia_Trial
 avtr_6c8783bf-4d83-4270-b4c9-b024b102871b|Vket2021_Sofia_Sample
 avtr_394da248-0973-4be8-af9b-0a89ebbb8baf|yozuki_sityaku_ivent
 avtr_126e743f-b0c7-424d-92ac-e63f50911926|うにに［試着版］
-avtr_58656686-2358-4a94-b447-c5dc11219d7d|試着用くりねこちゃん（アクアマリンワンピース）
 avtr_71d06dd3-5013-49a2-8683-ba51d33e875a|試着用ストロベリーミルクティー
 avtr_3b133670-36a7-47fd-91ca-c395c994779a|Asria Barata
 avtr_45fb316a-fb9f-456f-aa2f-cf87bb0e6947|BorfTiny
 avtr_f4f751e7-e7fc-430a-bb23-b580cf4c3786|BuffCat
-avtr_7453970b-7b8d-41ac-b7b7-6b817b75941a|GreyKnights-40kon
 avtr_3a1ee5a8-9873-4933-a2ca-3a4a089f8f06|Kizuna Ai Panty Thief 2․0
 avtr_ba53485b-0f85-484a-91e8-f6d891e67bd3|monky
 avtr_462b2971-4645-447b-ac51-72cc7b12c70f|shark
 avtr_3de28d11-eb7d-4821-aaf4-7e764df9b205|Tower of The Ferret
-avtr_6178c99f-6744-4e0f-ac81-ce30dbfaa3b2|Wonejo
 avtr_0a8a27f0-30a0-4b34-9e73-1121dc4e2eba|AudioLinkTesting
 avtr_2fbd5892-883e-4b14-a22e-9b2dadb54399|DebugAvatar
 avtr_80792856-916d-4557-a582-3a194def7c2b|ご案内ねこ
 avtr_d54d3fa9-0184-46f1-9b39-4ad8952c9a4a|Angela By Aiko Miu
-avtr_db1838ea-0f36-47c4-895e-dae24ca6ae63|Customizable Imp PUBLIC FULL
-avtr_aab0b46e-5283-4465-9572-598c1a664e83|Witch
 avtr_11802135-8f51-448b-91de-873c316d3be7|summoner
 avtr_f98e9f66-89de-48df-9007-295ebb862adc|FUMO - Visitor
 avtr_708b6668-2480-4a47-8318-40d002c05449|Airfield
