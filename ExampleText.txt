@@ -58,4 +58,74 @@ avtr_c033860a-62d4-4e29-bf8f-699df9cc7031|Claudia SAMPLE
 avtr_98447d08-d581-4bf6-92a1-a191c5e988e8|Karin_sample_lite
 avtr_b4ce4108-3ec1-4e40-a223-d89ceed361ac|Komari_Sample
 avtr_3b1b536e-9a61-4d01-add1-bd36b0146c3f|Lapi＆Lazu SAMPLE
-avtr_a0ccfef2-ba16-4e32-a8f4-ae37b52f &#8203;:citation[oaicite:0]{index=0}&#8203;
+avtr_03dbe99a-48e3-414d-bd92-35b1a96ea2be|Rino_Pedestal
+avtr_94699803-d360-439d-a128-c0d4c4507923|SUZUKA Sample
+avtr_77a30325-0044-463a-9ab9-f0dbb27d4652|Tolass․DEMO
+avtr_4f21e8f8-c61c-4c42-8064-ed5e8de86a9c|Vespia_Trial
+avtr_6c8783bf-4d83-4270-b4c9-b024b102871b|Vket2021_Sofia_Sample
+avtr_394da248-0973-4be8-af9b-0a89ebbb8baf|yozuki_sityaku_ivent
+avtr_126e743f-b0c7-424d-92ac-e63f50911926|うにに［試着版］
+avtr_58656686-2358-4a94-b447-c5dc11219d7d|試着用くりねこちゃん（アクアマリンワンピース）
+avtr_71d06dd3-5013-49a2-8683-ba51d33e875a|試着用ストロベリーミルクティー
+avtr_3b133670-36a7-47fd-91ca-c395c994779a|Asria Barata
+avtr_45fb316a-fb9f-456f-aa2f-cf87bb0e6947|BorfTiny
+avtr_f4f751e7-e7fc-430a-bb23-b580cf4c3786|BuffCat
+avtr_7453970b-7b8d-41ac-b7b7-6b817b75941a|GreyKnights-40kon
+avtr_3a1ee5a8-9873-4933-a2ca-3a4a089f8f06|Kizuna Ai Panty Thief 2․0
+avtr_ba53485b-0f85-484a-91e8-f6d891e67bd3|monky
+avtr_462b2971-4645-447b-ac51-72cc7b12c70f|shark
+avtr_3de28d11-eb7d-4821-aaf4-7e764df9b205|Tower of The Ferret
+avtr_6178c99f-6744-4e0f-ac81-ce30dbfaa3b2|Wonejo
+avtr_0a8a27f0-30a0-4b34-9e73-1121dc4e2eba|AudioLinkTesting
+avtr_2fbd5892-883e-4b14-a22e-9b2dadb54399|DebugAvatar
+avtr_80792856-916d-4557-a582-3a194def7c2b|ご案内ねこ
+avtr_d54d3fa9-0184-46f1-9b39-4ad8952c9a4a|Angela By Aiko Miu
+avtr_db1838ea-0f36-47c4-895e-dae24ca6ae63|Customizable Imp PUBLIC FULL
+avtr_aab0b46e-5283-4465-9572-598c1a664e83|Witch
+avtr_11802135-8f51-448b-91de-873c316d3be7|summoner
+avtr_f98e9f66-89de-48df-9007-295ebb862adc|FUMO - Visitor
+avtr_708b6668-2480-4a47-8318-40d002c05449|Airfield
+avtr_c988f51d-681a-4afd-a982-8cd7583e6131|Hex's Stickmin
+avtr_171f2907-656c-4e5f-aa74-7c6961f2d691|ADHDemon
+avtr_52fb5847-fcfd-4775-aeb0-d1a46f434d4e|Modernia （Public）
+avtr_4a6359a7-796b-4b48-b9d0-2418748e0dbd|R⁄D
+avtr_8f79bc3f-9acd-4450-a62b-d9fcea29146b|Mute?
+avtr_417d9394-d44a-44d9-9a19-f952fea74e4c|Mimi Sentry
+avtr_3bfacbb8-7338-4ea9-8fd3-3fabd473b5b0|Buni ˸ Aiko Miu ψ（｀´）ψ
+avtr_0f4f422b-9917-4229-ba74-e2fcda34494c|Tree
+avtr_4e5c586d-83b1-432d-9fbf-0bdfe4ea9c70|chalo 3
+avtr_b8bff9f1-343b-4c4d-b96e-b60e1e743e92|VRCraft 2․0․0 Beta 3․2
+avtr_b8c41933-c549-41a4-9fbc-96d42b65c5ab|Seiya's Lime
+avtr_c1387c7b-e553-46fa-b658-ae5379961cd6|Homalocephale
+avtr_ce729859-1877-495e-ad27-3a12f2a515c4|臆病Moe 03
+avtr_99e6bffe-2e14-4839-b94a-6303aad5e7c4|Loli Lime （Effect ）
+avtr_92a06845-3478-45b0-9e26-7b409772cd4e|Fiona
+avtr_2ea27174-3e8a-4e21-97f7-4856b2e7977d|Spooky - Spookality 2023
+avtr_61d60808-8598-4dc9-b0a8-baed84142a68|MechH-YA3
+avtr_ec4f43b6-6e9e-468a-9ac7-c5a2fa5df728|Shrek Rusk （Shrusk）
+avtr_8d8ea0cb-73ea-4c5f-b943-89ebed3cabf5|Moushly 2d
+avtr_6994282d-1ce8-435b-a455-37d1f5043168|Apollo （Space Version）
+avtr_0ecfe59a-bf64-47d3-9946-30731c3b70de|MechAlter-A-002
+avtr_6d6b926c-a603-4864-9efe-b9c3be5cfe7f|Tails doll
+avtr_e5adc52e-e140-4546-9fd3-f4fb502fa4a1|ROBU rafi
+avtr_2ffe35a7-8674-4b3d-bc9a-bef34359c7d4|Hex's ULTIMATE STICKMAN V2
+avtr_9901786e-a0d7-44cc-b346-c418f8d5f28a|MCPlayerMrIvanovichh
+avtr_8f804162-0168-43c6-97a1-004b82717a7e|Legnia_Side D_Sample
+avtr_89a2b363-a480-4a21-b70c-ea74c4b34233|Horiz_Sample2
+avtr_699780b3-f0a2-4595-980a-1b30b29958a4|MAKE-A-2099 （Zynda）
+avtr_f06e91b8-efc3-4b68-a0df-749d2acd8f89|Memory-chan（blue）
+avtr_1ec4140e-9f8e-4c4b-a843-f1a4fb9162b2|Fire Wyvern
+avtr_2d211bf4-4ae8-49ec-a5fb-aca874397e7b|DURPOI
+avtr_aaba4ff2-e923-4a6a-94e5-720b3922d00f|Rindo Decepticon
+avtr_1ce25f05-ad64-4eda-94fe-d077b684a80b|Ivanovich Aliexpress
+avtr_3cc337b2-3197-46c4-9e81-4a91f0400109|月知らずのヤドカ［YADOKA］
+avtr_b284e080-9061-4027-87be-faaeddc6b677|Mulberry Tasque Manager
+avtr_d419b59c-93d3-436a-9795-c9b541036333|NondMan moomo
+avtr_7dcff10a-4960-495a-b09d-7abcb1290b52|Glean
+avtr_657b5e20-9b1c-405a-bad1-78996c7eef86|OwO Katana Zero
+avtr_5668c41d-d396-4531-aa1a-09ea228f6726|Crocodile
+avtr_7cceec54-0182-442e-8b34-3c0f7b960fb3|Nekosan's Cyber Hoppou （deprecated）
+avtr_c552b47c-acb0-463a-956f-eff6388bd935|Blocked? Beat 'em Up
+avtr_32b89bed-af3d-45dd-91ae-18e81e82cf2d|Nekosan's Moth
+avtr_0b257ee8-7fa3-49eb-b527-47c11d3bed86|Armed KittysanOS
+avtr_39a299a9-5b59-4a36-9c78-a07698d1ed2a|Zi III
